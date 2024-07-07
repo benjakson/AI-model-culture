@@ -40,9 +40,6 @@ Includes a Python file (`translator.py`) used for translating Excel columns from
 ### Results
 This directory holds the results of the AI model testing, including translated responses and analysis.
 
-### Notebooks
-Jupyter notebooks used for analyzing the data and comparing model responses.
-
 ### Scripts
 Python scripts used for various tasks such as:
 - Data processing
