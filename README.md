@@ -35,7 +35,7 @@ Contains various files used for testing the AI models. Each question includes th
 - **Generality**: The level of specificity or abstraction of the question.
 
 ### Translations
-Includes a Python file (`translate_excel_columns.py`) used for translating Excel columns from Norwegian to English.
+Includes a Python file (`translator.py`) used for translating Excel columns from Norwegian to English.
 
 ### Results
 This directory holds the results of the AI model testing, including translated responses and analysis.
